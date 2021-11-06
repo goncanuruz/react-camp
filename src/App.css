@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+.navi{
+  margin-bottom:25px;
+}
+.dashboard{
+  box-sizing: border-box;
+}
