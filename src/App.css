@@ -7,3 +7,9 @@
 .dashboard{
   box-sizing: border-box;
 }
+@media screen and (max-width:700px) {
+  .grid{
+    margin:0px 5px;
+  }
+  
+}
